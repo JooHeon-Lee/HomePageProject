@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:include page="nav.jsp"></jsp:include>
+<jsp:include page="memberNav.jsp"></jsp:include> <!-- nav는 회원,관리자에 맞게 -->
 [[[구매자 정보 받아오는 부분]]]<br>
 [[[배송자 정보 받아오는 부분]]]<br>
 [[[결제정보]]]<br>

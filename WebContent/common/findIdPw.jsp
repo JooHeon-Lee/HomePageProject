@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:include page="nav.jsp"></jsp:include>
+<jsp:include page="mainNav.jsp"></jsp:include>
 <form action="findIdResult.jsp">
 <h2>ID찾기</h2><br>
 이름<input type="text" id="name"><br>

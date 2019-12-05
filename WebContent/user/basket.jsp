@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<title>장바구니</title>
 </head>
 <body>
-
+<jsp:include page="memberNav.jsp"/>
+<h2>장바구니</h2><br>
+[[[상품사진]]]&nbsp;&nbsp;&nbsp;[[[상품명]]]]
 </body>
 </html>
